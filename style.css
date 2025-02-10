@@ -1,0 +1,46 @@
+/* Style Général */
+body {
+    text-align: center;
+    margin: 5px;
+    padding: 0;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+}
+
+/* Largeur de la table */
+table {
+    width: 100%; 
+}
+
+/* Rembourrage des cellules */
+td, th {
+    padding: 30px;
+    border-bottom: 10px solid white;
+}
+
+/* Couleur d'arriere plan de l'en-tete */
+thead {
+    background-color: rgb(228, 228, 228);
+    color: initial;
+}
+
+/* Couleur des cellules */
+.blue {
+    background-color: rgb(78, 162, 231);
+}
+.green {
+    background-color: rgb(135, 192, 48);
+}
+.pink {
+    background-color: rgb(187, 3, 104);
+}
+.pinkalpha {
+    background-color: rgb(189, 17, 111, 0.7);
+}
+.menthe {
+    background-color: rgba(75, 184, 147, 0.815)
+}
+.orange {
+    background-color: rgb(221, 92, 6);
+}
